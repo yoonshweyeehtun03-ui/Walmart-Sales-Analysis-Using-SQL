@@ -65,7 +65,7 @@ The goal is to demonstrate SQL skills in data cleaning, exploratory data analysi
 - Grouping and filtering data using GROUP BY and WHERE clauses
 - Identification and validation of data quality (null and missing value checks)
 
-#### Conclusion
+# Conclusion
 This project analyzed Walmart sales data using SQL to understand store performance, time-based trends, and the impact of external economic and environmental factors. The analysis revealed significant differences in performance across stores, with Store 20 achieving the highest total sales and Store 33 recording the lowest.
 Time-series analysis showed that sales peaked in 2011 and declined in 2012, indicating a downward trend after the peak year. Seasonal patterns were also observed, with certain months consistently performing better across all years.
 The analysis of external factors showed that temperature, CPI, and unemployment rate have a moderate influence on weekly sales, while fuel price shows a weak relationship with sales performance. Additionally, holiday weeks did not consistently outperform non-holiday weeks in terms of average sales.
